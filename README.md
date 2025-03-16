@@ -1,2 +1,1 @@
 # DSA
-Notes for student
